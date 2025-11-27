@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Actividades</string>
+    <string name="SegundaScreenText">2 ACTIVITY</string>
+    <string name="PrimeraScreenText">1 ACTIVITY</string>
+    <string name="ButtonSegundaActivityNav">Ir a Main</string>
+    <string name="ButtonPrimeraActivityNav">Ir a Segunda</string>
+    <string name="msg_click_boton">Boton funciona</string>
+    <string name="msg_focus_boton">Mensaje Focus\n</string>
+    <string name="Textedad">EDAD\n</string>
+    <string name="usuario">USUARIO</string>
+    <string name="nombre">Nombre</string>
+    <string name="localidad">Localidad</string>
+    <string name="texto_localidad">LOCALIDAD</string>
+    <string name="rellenadatos">Rellena todos los campos</string>
+</resources>
